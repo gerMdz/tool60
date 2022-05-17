@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+.row div{
+    background-color: #e6e2eb;
+    border: 1px solid black;
+}
+
+.rojo {
+    color: red;
+}
+.f32{
+    font-size: 32px;
+}
+
+.googleFont {
+    font-family: 'Dancing Script', cursive;
+}
+
+.blokk {
+    font-family: BLOKKRegular, serif;
+}
+
