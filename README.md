@@ -24,6 +24,9 @@ Arctext.js
 Shuffle Letters
 `Un poco de efectos`
 >http://tutorialzine.com/2011/09/shuffle-letters-effect-jquery
+
+Manejo de imágenes
+> https://github.com/mindsharelabs/mthumb 
  
 
 
