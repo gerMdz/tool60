@@ -26,7 +26,26 @@ Shuffle Letters
 >http://tutorialzine.com/2011/09/shuffle-letters-effect-jquery
 
 Manejo de imágenes
-> https://github.com/mindsharelabs/mthumb 
+> https://github.com/mindsharelabs/mthumb
+
+JSON-Generator
+> http://www.json-generator.com/
+> https://next.json-generator.com/
+
+HTML-Compressor
+>https://htmlcompressor.com/compressor/
+
+CSS3-Generator
+>http://css3generator.com/
+
+Generador de Color HTML
+>https://color.hailpixel.com/
+
+Gradient-Editor
+>http://www.colorzilla.com/gradient-editor/
+
+placehold.it
+>http://placehold.it/#
  
 
 
