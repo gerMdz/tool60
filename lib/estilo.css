@@ -21,8 +21,8 @@
 
 .css3{
     margin-top: 5px;
-    width: 300px;
-    height: 300px;
+    width: 150px;
+    height: 150px;
     background-color: red;
     /*border*/
     -webkit-border-radius: 40px 0 0 0;
@@ -30,6 +30,18 @@
     /*shadow*/
     -webkit-box-shadow: 10px 10px 10px 10px rgba(1,1,1,0.3);
     box-shadow: 10px 10px 10px 10px rgba(1,1,1,0.3);
+}
+
+.css4{
+    margin-top: 5px;
+    width: 150px;
+    height: 150px;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ff0084+0,ff54ac+23,ff89c6+46,ffc1e1+81,ffeff7+100 */
+    background: #ff0084; /* Old browsers */
+    background: -moz-linear-gradient(top,  #ff0084 0%, #ff54ac 23%, #ff89c6 46%, #ffc1e1 81%, #ffeff7 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #ff0084 0%,#ff54ac 23%,#ff89c6 46%,#ffc1e1 81%,#ffeff7 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #ff0084 0%,#ff54ac 23%,#ff89c6 46%,#ffc1e1 81%,#ffeff7 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0084', endColorstr='#ffeff7',GradientType=0 ); /* IE6-9 */
 
 }
 

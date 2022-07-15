@@ -50,6 +50,11 @@ placehold.it
 css3 generador
 >http://css3generator.com
 
+colorzilla
+> https://www.colorzilla.com
+> 
+> https://www.colorzilla.com/gradient-editor/
+
 
 Gracias a 
 
