@@ -55,6 +55,11 @@ colorzilla
 > 
 > https://www.colorzilla.com/gradient-editor/
 
+hailpixel
+> https://hailpixel.com
+> 
+> https://hailpixel.com
+
 
 Gracias a 
 
