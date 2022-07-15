@@ -60,6 +60,10 @@ hailpixel
 > 
 > https://hailpixel.com
 
+placehold
+> https://placehold.it
+> 
+> https://placeholder.com/
 
 
 Gracias a 
