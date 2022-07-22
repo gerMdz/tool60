@@ -25,6 +25,9 @@
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" href="lib/MetroNotificationStyle.min.css">
 
+<!--    CrystalNotification-->
+    <link rel="stylesheet" href="plugins/crystal/css/crystalnotifications.min.css">
+    <link rel="stylesheet" href="plugins/yose/css/yosemodal.min.css">
     <!-- Estilos de los recursos adicionales -->
 
 
@@ -159,6 +162,7 @@
     </div>
 
     <!-- Hasta aquí modificaremos -->
+
 </div>
 
 
@@ -174,12 +178,27 @@
 <script src="plugins/jquery.shuffleLetters/assets/js/jquery.shuffleLetters.js"></script>
 <script src="lib/curso.js"></script>
 <script src="lib/MetroNotification.min.js"></script>
+<!--CrystalNotification-->
+<script src="plugins/crystal/js/crystalnotifications.min.js"></script>
+<script src="lib/crystal.js"></script>
+<script src="plugins/yose/js/gsap.js"></script>
+<script src="plugins/yose/js/yosemodal.min.js"></script>
+
+
 <script>
     $(document).ready(function () {
         $.smallBox({
             title: "Hola",
             content: "Cuerpo",
             fa:"fa-star-o",
+        });
+        $.yosemodal({
+            position: "fixed",
+            top: "10px",
+            left: "10px",
+            animation: "bounceIn",
+            title: "Hey",
+            content: "Hello World!"
         });
     })
 </script>
