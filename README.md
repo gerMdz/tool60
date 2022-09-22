@@ -68,6 +68,27 @@ placehold
 Metro Notifications 
 
 
+##### Otros geniales
+>convertio.co
+
+>microcopy.me
+
+>remove.bg
+
+>pexels.com
+
+>otter.ai
+
+>quillbot.com
+
+>loom.com
+
+>jenni.ai
+
+>temp-mail.org/en/
+
+>tinywow.com
+
 Gracias a 
 
 [Fernando Herrera](https://www.udemy.com/user/550c38655ec11/)
